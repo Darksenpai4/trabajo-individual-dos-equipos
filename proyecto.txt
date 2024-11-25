@@ -1,3 +1,5 @@
 Hola mundo
 
 Este será mi trabajo de entornos de desarollo.
+
+Este trabajo va como puedo tener un trabajo individualmente en dos equipos
